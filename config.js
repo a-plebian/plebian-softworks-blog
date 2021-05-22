@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'plebiansoftworks.com',
+  url: 'https://plebiansoftworks.com',
   pathPrefix: '/',
   title: 'Plebian Softworks',
   subtitle: 'unhinged man goes insane',
