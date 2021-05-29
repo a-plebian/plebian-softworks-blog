@@ -29,7 +29,7 @@ const Menu = ({ menu }: Props) => (
           href="https://discord.gg/bKkDCbYp5h"
           className={styles['menu__list-item-link']}
         >
-          Join my shitcord!
+          Join my Discord!
         </a>
       </li>
     </ul>
