@@ -1,5 +1,5 @@
 ---
-title: "Non-infringing friday based development information #1"
+title: "Non-infringing friday based development information #1 - Unnecessarily long subheading tile"
 date: "2021-05-21T22:40:32.169Z"
 template: "post"
 draft: false
