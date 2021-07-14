@@ -13,4 +13,11 @@ description: "A small insight into the code of hit game for weird perverts Fetis
 socialImage: "/media/cover.png"
 ---
 
-Test Post Please Ignore
+
+Oh jesus the comments.
+
+<video autoplay loop muted playsinline>
+  <source src="/media/fmfork-1/comments.mp4" type="video/mp4">
+</video
+
+Comments in code are lines
