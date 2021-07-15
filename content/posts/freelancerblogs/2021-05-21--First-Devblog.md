@@ -12,13 +12,19 @@ socialImage: "/media/cover.png"
 ---
 Working title for this series. Give me better ideas.
 
-So this is a project that's been stewing in my brain for a long time and I think what exactly I want out of it is finally starting to crystalize after a lot of waffling, starting over, and side diversions.
+So this is a project that's been stewing in my brain for a long time and I think what exactly I want out of it is
+finally starting to crystalize after a lot of waffling, starting over, and side diversions.
 
 Enter Freelancers.
 
-So think of this as an announcement for a game I'm working on, and the start of a weekly post about my work on it. I'm going to be working on a simulation-management type game sort of in the vein of rimworld or dwarf fortress with a fetishy slant to it.
+So think of this as an announcement for a game I'm working on, and the start of a weekly post about my work on it.
+I'm going to be working on a simulation-management type game sort of in the vein of rimworld or dwarf fortress with a
+fetishy slant to it.
 
-I'm a big fan of Factorio's Friday Facts devblog. I would highly recommend reading through it. It's pretty much the best game dev blog series ever written, they go into extensive detail on design, technical, and artistic processes. I can only hope to achieve that quality, and I'm starting this because I need *somewhere* to collect thoughts, report progress, and babble incoherently about whatever hairbrained shit I've come up with this week.
+I'm a big fan of Factorio's Friday Facts devblog. I would highly recommend reading through it. It's pretty much the
+best game dev blog series ever written, they go into extensive detail on design, technical, and artistic processes.
+I can only hope to achieve that quality, and I'm starting this because I need *somewhere* to collect thoughts,
+report progress, and babble incoherently about whatever hairbrained shit I've come up with this week.
 
 So let's get into it.
 
